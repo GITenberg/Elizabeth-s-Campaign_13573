@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2629
     wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
 description: 'UK title: The War and Elizabeth.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13573#Elizabeth-s-Campaign
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
